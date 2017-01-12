@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Make Me Popular</string>
+    <string name="fa_mobile_ico">&#xf095;</string>
+    <string name="fa_user_ico">&#xf007;</string>
+    <string name="fa_email_ico">&#xf0e0;</string>
+    <string name="fa_calendar_ico">&#xf073;</string>
+    <string name="fa_gender_ico">&#xf224;</string>
+    <string name="fa_list_ico">&#xf00b;</string>
+
+    <!--Dashboard Icons-->
+    <string name="fa_emergency_ico">&#xf06a;</string>
+    <string name="fa_friendnear_ico">&#xf0c0;</string>
+    <string name="fa_addfriend_ico">&#xf234;</string>
+    <string name="fa_nearbyplac_ico">&#xf041;</string>
+    <string name="fa_invitefrnd_ico">&#xf2bc;</string>
+    <string name="fa_frbdlist_ico">&#xf0c0;</string>
+
+
+    <string-array name="icofont">
+        <item>&#xf29d;</item>
+        <item>&#xf1e7;</item>
+        <item>&#xf1e3;</item>
+        <item>&#xf109;</item>
+        <item>&#xf001;</item>
+        <item>&#xf1ae;</item>
+        <item>&#xf21c;</item>
+        <item>&#xf2a2;</item>
+        <item>&#xf0c0;</item>
+    </string-array>
+
+    <string-array name="interest_text">
+        <item>Trekking</item>
+        <item>Dating</item>
+        <item>Sports</item>
+        <item>Technical or IT</item>
+        <item>Music</item>
+        <item>Dancing</item>
+        <item>Bikers</item>
+        <item>Gossip</item>
+        <item>Social Work</item>
+
+    </string-array>
+
+    <!--Interest Font Awesome Icon-->
+
+    <string name="fa_trekking_ico">  &#xf29d;</string>
+    <string name="fa_dating_ico">    &#xf1e7;</string>
+    <string name="fa_sports_ico">    &#xf1e3;</string>
+    <string name="fa_technical_ico"> &#xf109;</string>
+    <string name="fa_music_ico">     &#xf001;</string>
+    <string name="fa_dancing_ico">   &#xf1ae;</string>
+    <string name="fa_bikers_ico">    &#xf21c;</string>
+    <string name="fa_gossip_ico">    &#xf2a2;</string>
+    <string name="fa_socialwork_ico">&#xf0c0;</string>
+
+</resources>
